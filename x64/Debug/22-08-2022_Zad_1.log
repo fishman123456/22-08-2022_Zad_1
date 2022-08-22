@@ -1,4 +1,4 @@
 ﻿  22-08-2022_Zad_1.cpp
-C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(100,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(107,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(108,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   22-08-2022_Zad_1.vcxproj -> C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\x64\Debug\22-08-2022_Zad_1.exe

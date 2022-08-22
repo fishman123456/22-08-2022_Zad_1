@@ -1,4 +1,7 @@
 ﻿  22-08-2022_Zad_1.cpp
-C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(107,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(108,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  22-08-2022_Zad_1.vcxproj -> C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\x64\Debug\22-08-2022_Zad_1.exe
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(17,17): error C2597: недопустимая ссылка на нестатический член "Stack::FULL"
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(17,17): error C3867: "Stack::FULL": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(17,17): error C2568: +: не удается разрешить перегрузку функции
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(88,13): error C3863: тип массива "int [0]" является неназначаемым
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(106,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\profi\Documents\fishman_progect\22-08-2022_Zad_1\22-08-2022_Zad_1.cpp(107,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
